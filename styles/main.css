@@ -61,10 +61,10 @@ body{
 .user-card .card-block .user-image img {
     z-index: 20;
     position: absolute;
-    top: 5px;
-    left: 5px;
-    width: 100px;
-    height: 100px;
+    top: -13%;
+    left: -10%;
+    width: 150px;
+    height: 150px;
 }
 
 .img-radius {
